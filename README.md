@@ -1,4 +1,4 @@
-# loan-default-prediction
+# Loan Default Prediction
 
 8 datasets from a bank are used to determine the likelihood of a load default. 
 
