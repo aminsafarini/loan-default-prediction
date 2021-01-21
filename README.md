@@ -12,3 +12,4 @@ The data about the clients and their accounts consist of following relations:
 - <b>credit card</b> (892 objects in the file CARD.ASC) - each record describes a credit card issued to an account
 - <b>demographic data</b> (77 objects in the file DISTRICT.ASC) - each record describes demographic characteristics of a district.
 
+<img src="bankloan_table_relations.png"/>
